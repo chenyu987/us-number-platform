@@ -25,6 +25,7 @@ Do not invest in a full platform until a supplier **confirms in writing**: (1) g
 - [Compliance and risk](docs/COMPLIANCE.md)
 - [Economics](docs/ECONOMICS.md)
 - [Roadmap and acceptance gates](planning/ROADMAP.md)
+- [竞品研究：鸿达电讯](planning/COMPETITOR-baymediastar.md)
 
 ## MVP boundary
 First: supplier feasibility and a manual concierge pilot. Only after validation: customer portal, billing, number provisioning, usage, support. VoIP web dialer and Zoiper integration can be a separate business communications track, not a substitute for genuine mobile OTP use cases.
