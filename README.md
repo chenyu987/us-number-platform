@@ -1,6 +1,8 @@
 # US Number Platform — Product & Feasibility Repository
 
 > Status: discovery / pre-MVP. Private repository recommended.
+>
+> **当前方向（2026-11-06）：[Twilio / Telnyx 之上的中国本地化通信 console](planning/DIRECTION-china-localized-shell.md)**，面向出海中国商家。下方 eSIM 内容为早期调研，保留备查。
 
 ## Vision
 Self-service US phone number platform for legitimate cross-border individuals and businesses: obtain a number, use web calling/SMS, optionally configure a SIP softphone, and eventually offer genuine US mobile eSIM lines through an authorized MVNO/MVNE partner.
@@ -19,6 +21,7 @@ Self-service US phone number platform for legitimate cross-border individuals an
 Do not invest in a full platform until a supplier **confirms in writing**: (1) genuine US mobile number, (2) initial eSIM activation from mainland China, (3) inbound SMS including short codes and native voice in China, (4) prolonged international use permitted, (5) authorized resale, (6) API provisioning and optional inbound SMS API, (7) port-out and number ownership rules. Test on real devices and legitimate accounts with user authorization.
 
 ## Documents
+- **[当前方向：中国本地化通信 console](planning/DIRECTION-china-localized-shell.md)**
 - [Product requirements](docs/PRD.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Supplier due diligence](docs/SUPPLIERS.md)
