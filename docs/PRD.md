@@ -1,6 +1,8 @@
 # Product Requirements Document
 
 ## Target customers
+**Primary (to validate first): returning Chinese students** who want to keep their existing US number (tied to bank/brokerage/Apple/Google accounts) at low cost after moving back to China, instead of paying ~$40/month on a major-carrier plan. See [returning-students segment](../planning/SEGMENT-returning-students.md).
+
 Cross-border professionals, returning students, legitimate US account holders abroad, and small international businesses needing a stable US contact number. Avoid anonymous bulk verification and account farming.
 
 ## Jobs to be done

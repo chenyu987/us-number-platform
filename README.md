@@ -25,6 +25,7 @@ Do not invest in a full platform until a supplier **confirms in writing**: (1) g
 - [Compliance and risk](docs/COMPLIANCE.md)
 - [Economics](docs/ECONOMICS.md)
 - [Roadmap and acceptance gates](planning/ROADMAP.md)
+- [核心细分：回国留学生保号](planning/SEGMENT-returning-students.md)
 - [竞品研究：鸿达电讯](planning/COMPETITOR-baymediastar.md)
 
 ## MVP boundary
